@@ -6938,7 +6938,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm"
 			(at 41.91 32.0548 0)
 			(effects
 				(font
@@ -6958,6 +6958,24 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 38.1 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "AISHI"
+			(at 38.1 33.02 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer part number" "EWH1EM220D11OT"
+			(at 38.1 33.02 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7072,7 +7090,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D5.0mm"
 			(at 241.3 49.53 0)
 			(effects
 				(font
@@ -7303,7 +7321,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D5.0mm"
 			(at 241.3 41.91 0)
 			(effects
 				(font
@@ -7645,7 +7663,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 44.45 161.29 0)
 			(effects
 				(font
@@ -7664,6 +7682,24 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 44.45 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer " ""
+			(at 44.45 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer part number" ""
 			(at 44.45 161.29 0)
 			(effects
 				(font
@@ -7740,6 +7776,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" "TEXAS INSTRUMENTS"
+			(at 133.35 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer part number" "SN74LVC1G11DBVR"
+			(at 133.35 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "6"
 			(uuid "533e3999-f088-467a-ac63-c90c09d81fe2")
 		)
@@ -7792,7 +7846,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 93.98 170.18 0)
 			(effects
 				(font
@@ -7812,6 +7866,24 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 93.98 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "ROYALOHM"
+			(at 93.98 170.18 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer part number" "1206S4F2001T5E"
+			(at 93.98 170.18 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7862,7 +7934,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm_Socket_LongPads"
 			(at 189.23 91.44 0)
 			(effects
 				(font
@@ -7881,6 +7953,24 @@
 			)
 		)
 		(property "Description" "Dual JK FlipFlop, set & reset"
+			(at 189.23 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "RENESAS"
+			(at 189.23 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer part number" "CD4027BMS"
 			(at 189.23 91.44 0)
 			(effects
 				(font
@@ -7974,7 +8064,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm_Socket_LongPads"
 			(at 267.97 91.44 0)
 			(effects
 				(font
@@ -7993,6 +8083,24 @@
 			)
 		)
 		(property "Description" "Dual JK FlipFlop, set & reset"
+			(at 267.97 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer " "RENESAS"
+			(at 267.97 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer part number" "CD4027BMS"
 			(at 267.97 91.44 0)
 			(effects
 				(font
@@ -8151,7 +8259,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm_Socket_LongPads"
 			(at 177.8 140.97 0)
 			(effects
 				(font
@@ -8170,6 +8278,24 @@
 			)
 		)
 		(property "Description" "Dual JK FlipFlop, set & reset"
+			(at 177.8 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "RENESAS"
+			(at 177.8 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer part number" "CD4027BMS"
 			(at 177.8 140.97 0)
 			(effects
 				(font
@@ -8263,7 +8389,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm"
 			(at 195.2752 44.45 0)
 			(effects
 				(font
@@ -8282,6 +8408,24 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
+			(at 194.31 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "SAMWHA"
+			(at 194.31 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer part number" "RD1A227M05011BB"
 			(at 194.31 40.64 0)
 			(effects
 				(font
@@ -8331,7 +8475,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 255.27 49.53 0)
 			(effects
 				(font
@@ -8420,6 +8564,24 @@
 			)
 		)
 		(property "Description" "Precision Timers, 555 compatible,  PDIP-8"
+			(at 67.31 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "TEXAS INSTRUMENTS"
+			(at 67.31 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer part number" "NE555P"
 			(at 67.31 83.82 0)
 			(effects
 				(font
@@ -8684,7 +8846,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 255.27 25.4 0)
 			(effects
 				(font
@@ -8886,7 +9048,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm_Socket_LongPads"
 			(at 214.63 91.44 0)
 			(effects
 				(font
@@ -8913,53 +9075,71 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" "RENESAS"
+			(at 214.63 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer part number" "CD4027BMS"
+			(at 214.63 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "7"
-			(uuid "79702c2f-3049-43f5-9468-7053bedc8521")
+			(uuid "79702c2f-3049-43f5-9468-7053bedc8522")
 		)
 		(pin "1"
-			(uuid "81d9092e-b93e-4502-94d3-d65dd4c19b54")
+			(uuid "81d9092e-b93e-4502-94d3-d65dd4c19b55")
 		)
 		(pin "4"
-			(uuid "d1341279-f026-4d1e-9abb-61d75d2f855f")
+			(uuid "d1341279-f026-4d1e-9abb-61d75d2f8560")
 		)
 		(pin "10"
-			(uuid "0234f2db-4625-4fa1-a796-d88b948d5aaa")
+			(uuid "0234f2db-4625-4fa1-a796-d88b948d5aab")
 		)
 		(pin "13"
-			(uuid "3b4b35fd-2618-4c80-bc8b-74c00026b3e2")
+			(uuid "3b4b35fd-2618-4c80-bc8b-74c00026b3e3")
 		)
 		(pin "16"
-			(uuid "43e51ef4-fb0a-45a6-a1d0-34b8ad1c6b50")
+			(uuid "43e51ef4-fb0a-45a6-a1d0-34b8ad1c6b51")
 		)
 		(pin "5"
-			(uuid "bc10a03e-96f2-4b35-9d5a-32742294f6b7")
+			(uuid "bc10a03e-96f2-4b35-9d5a-32742294f6b8")
 		)
 		(pin "2"
-			(uuid "aa967bdf-ec00-480d-bef5-257277172067")
+			(uuid "aa967bdf-ec00-480d-bef5-257277172068")
 		)
 		(pin "8"
-			(uuid "94638c3c-93c3-4cb2-aed4-50525cc085a4")
+			(uuid "94638c3c-93c3-4cb2-aed4-50525cc085a5")
 		)
 		(pin "11"
-			(uuid "c0e56b73-9680-466e-8178-eb39ce86caba")
+			(uuid "c0e56b73-9680-466e-8178-eb39ce86cabb")
 		)
 		(pin "3"
-			(uuid "b7be297e-4430-4395-9b26-3dd07467d266")
+			(uuid "b7be297e-4430-4395-9b26-3dd07467d267")
 		)
 		(pin "15"
-			(uuid "a2678ec4-84de-4800-870d-dbee1c9f67ce")
+			(uuid "a2678ec4-84de-4800-870d-dbee1c9f67cf")
 		)
 		(pin "6"
-			(uuid "2660d0c4-5bcd-463d-af8e-1fa76c484045")
+			(uuid "2660d0c4-5bcd-463d-af8e-1fa76c484046")
 		)
 		(pin "9"
-			(uuid "7e1e9e60-8aa5-4190-b2cc-1ea973eb88c6")
+			(uuid "7e1e9e60-8aa5-4190-b2cc-1ea973eb88c7")
 		)
 		(pin "14"
-			(uuid "ea111e0f-ef1e-48eb-9a11-b7c59f918895")
+			(uuid "ea111e0f-ef1e-48eb-9a11-b7c59f918896")
 		)
 		(pin "12"
-			(uuid "8cd6fd9c-e9b8-4c29-94be-932d770c75a5")
+			(uuid "8cd6fd9c-e9b8-4c29-94be-932d770c75a6")
 		)
 		(instances
 			(project ""
@@ -8995,7 +9175,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 93.98 139.7 0)
 			(effects
 				(font
@@ -9015,6 +9195,24 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 93.98 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "ROYALOHM"
+			(at 93.98 139.7 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer part number" "1206S4F2001T5E"
+			(at 93.98 139.7 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9131,7 +9329,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_5.5mm"
 			(at 248.92 130.81 0)
 			(effects
 				(font
@@ -9347,7 +9545,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 255.27 33.02 0)
 			(effects
 				(font
@@ -9417,7 +9615,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_5.5mm"
 			(at 248.92 138.43 0)
 			(effects
 				(font
@@ -9545,7 +9743,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D5.0mm"
 			(at 241.3 25.4 0)
 			(effects
 				(font
@@ -9573,6 +9771,24 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 241.3 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 241.3 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer part number" ""
 			(at 241.3 25.4 0)
 			(effects
 				(font
@@ -9624,7 +9840,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm_Socket_LongPads"
 			(at 69.85 154.94 0)
 			(effects
 				(font
@@ -9643,6 +9859,24 @@
 			)
 		)
 		(property "Description" "BCD to 7-segment Driver, Open Collector, 30V outputs"
+			(at 69.85 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "TEXAS INSTRUMENTS"
+			(at 69.85 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer part number" "SN74LS47N"
 			(at 69.85 154.94 0)
 			(effects
 				(font
@@ -9801,7 +10035,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 228.6 83.82 0)
 			(effects
 				(font
@@ -9870,7 +10104,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 22.5552 106.68 0)
 			(effects
 				(font
@@ -9889,6 +10123,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 21.59 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "SAMSUNG"
+			(at 21.59 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer part number" "CL31A106KBHNNNE"
 			(at 21.59 102.87 0)
 			(effects
 				(font
@@ -10138,7 +10390,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_5.5mm"
 			(at 248.92 146.05 0)
 			(effects
 				(font
@@ -10267,7 +10519,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 40.3352 80.01 0)
 			(effects
 				(font
@@ -10286,6 +10538,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 39.37 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "SAMSUNG"
+			(at 39.37 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer part number" "CL31B104KBCNNNC"
 			(at 39.37 76.2 0)
 			(effects
 				(font
@@ -10507,7 +10777,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 255.27 41.91 0)
 			(effects
 				(font
@@ -10602,6 +10872,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" "FORYARD"
+			(at 116.84 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer part number" "FYS-3911BUHR-21"
+			(at 116.84 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "9"
 			(uuid "fef9c627-fbe6-47aa-bf36-952a93d9f666")
 		)
@@ -10667,7 +10955,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D5.0mm"
 			(at 241.3 33.02 0)
 			(effects
 				(font
@@ -10743,7 +11031,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 93.98 160.02 0)
 			(effects
 				(font
@@ -10763,6 +11051,24 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 93.98 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "ROYALOHM"
+			(at 93.98 160.02 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer part number" "1206S4F2001T5E"
+			(at 93.98 160.02 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10879,7 +11185,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 21.59 76.2 0)
 			(effects
 				(font
@@ -10898,6 +11204,24 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 21.59 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "ROYALOHM"
+			(at 21.59 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer part number" "1206S4J0473T5E"
 			(at 21.59 76.2 0)
 			(effects
 				(font
@@ -11014,7 +11338,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TerminalBlock_MetzConnect:TerminalBlock_MetzConnect_Type011_RT05502HBLC_1x02_P5.00mm_Horizontal"
 			(at 109.22 33.02 0)
 			(effects
 				(font
@@ -11033,6 +11357,24 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 109.22 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer " "DEGSON ELECTRONICS"
+			(at 109.22 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer part number" "DG301-5.0-02P-12-00A(H)"
 			(at 109.22 33.02 0)
 			(effects
 				(font
@@ -11083,7 +11425,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_THT:SW_Slide_SPDT_Straight_CK_OS102011MS2Q"
 			(at 66.04 57.15 0)
 			(effects
 				(font
@@ -11102,6 +11444,24 @@
 			)
 		)
 		(property "Description" "Switch, single pole double throw"
+			(at 66.04 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "C&K"
+			(at 66.04 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer part number" "OS102011MS2QN1C"
 			(at 66.04 46.99 0)
 			(effects
 				(font
@@ -11153,7 +11513,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 93.98 144.78 0)
 			(effects
 				(font
@@ -11173,6 +11533,24 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 93.98 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer " "ROYALOHM"
+			(at 93.98 144.78 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer part number" "1206S4F2001T5E"
+			(at 93.98 144.78 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11289,7 +11667,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_5.5mm"
 			(at 248.92 153.67 0)
 			(effects
 				(font
@@ -11418,7 +11796,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 255.27 82.55 0)
 			(effects
 				(font
@@ -11487,7 +11865,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 203.2 83.82 0)
 			(effects
 				(font
@@ -11620,7 +11998,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_THT:L_Radial_D7.2mm_P3.00mm_Murata_1700"
 			(at 180.34 30.48 0)
 			(effects
 				(font
@@ -11640,6 +12018,24 @@
 		)
 		(property "Description" "Inductor"
 			(at 180.34 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "FERROCORE"
+			(at 180.34 30.48 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer part number" "COIL0608-0.33"
+			(at 180.34 30.48 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11688,7 +12084,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 45.72 44.45 0)
 			(effects
 				(font
@@ -11708,6 +12104,24 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 45.72 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "ROYALOHM"
+			(at 45.72 44.45 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer part number" "1206S4F2001T5E"
+			(at 45.72 44.45 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11758,7 +12172,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 72.39 33.02 0)
 			(effects
 				(font
@@ -11777,6 +12191,24 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 72.39 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 72.39 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer part number" ""
 			(at 72.39 33.02 0)
 			(effects
 				(font
@@ -11828,7 +12260,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm_Socket_LongPads"
 			(at 201.93 140.97 0)
 			(effects
 				(font
@@ -11847,6 +12279,24 @@
 			)
 		)
 		(property "Description" "Dual JK FlipFlop, set & reset"
+			(at 201.93 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer " "RENESAS"
+			(at 201.93 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer part number" "CD4027BMS"
 			(at 201.93 140.97 0)
 			(effects
 				(font
@@ -12006,7 +12456,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 21.59 88.9 0)
 			(effects
 				(font
@@ -12025,6 +12475,24 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 21.59 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer " "ROYALOHM"
+			(at 21.59 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer part number" "1206S4J0473T5E"
 			(at 21.59 88.9 0)
 			(effects
 				(font
@@ -12073,7 +12541,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 93.98 149.86 0)
 			(effects
 				(font
@@ -12093,6 +12561,24 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 93.98 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "ROYALOHM"
+			(at 93.98 149.86 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer part number" "1206S4F2001T5E"
+			(at 93.98 149.86 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12275,7 +12761,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm_Socket_LongPads"
 			(at 241.3 91.44 0)
 			(effects
 				(font
@@ -12302,53 +12788,71 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer " "RENESAS"
+			(at 241.3 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer part number" "CD4027BMS"
+			(at 241.3 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
-			(uuid "882fb58b-2a95-4024-9c29-341334b337f5")
+			(uuid "882fb58b-2a95-4024-9c29-341334b337f6")
 		)
 		(pin "6"
-			(uuid "efe28daf-1746-44cb-a0cf-65f4cd8be808")
+			(uuid "efe28daf-1746-44cb-a0cf-65f4cd8be809")
 		)
 		(pin "4"
-			(uuid "bf078093-1246-4268-bc38-f1eb73e4cef9")
+			(uuid "bf078093-1246-4268-bc38-f1eb73e4cefa")
 		)
 		(pin "3"
-			(uuid "6bf5abaa-ae06-4515-a664-bdfe5d72ba29")
+			(uuid "6bf5abaa-ae06-4515-a664-bdfe5d72ba2a")
 		)
 		(pin "5"
-			(uuid "b6b94457-dc88-49ee-ba05-ad9cc483ff25")
+			(uuid "b6b94457-dc88-49ee-ba05-ad9cc483ff26")
 		)
 		(pin "1"
-			(uuid "2bfc144c-1de8-49d7-94c1-bc1e4ea66edf")
+			(uuid "2bfc144c-1de8-49d7-94c1-bc1e4ea66ee0")
 		)
 		(pin "7"
-			(uuid "d5bd28d5-3707-411f-b805-9ac7c65b91f8")
+			(uuid "d5bd28d5-3707-411f-b805-9ac7c65b91f9")
 		)
 		(pin "9"
-			(uuid "8c128b74-1d67-47aa-983b-9d1697c5c4a6")
+			(uuid "8c128b74-1d67-47aa-983b-9d1697c5c4a7")
 		)
 		(pin "16"
-			(uuid "000f3132-a02e-442a-8d3e-832a5cef3673")
+			(uuid "000f3132-a02e-442a-8d3e-832a5cef3674")
 		)
 		(pin "13"
-			(uuid "586baec5-daf7-4c67-93e4-729d3ca8c928")
+			(uuid "586baec5-daf7-4c67-93e4-729d3ca8c929")
 		)
 		(pin "8"
-			(uuid "2179a99a-d4ab-4509-b483-c811ddf89c11")
+			(uuid "2179a99a-d4ab-4509-b483-c811ddf89c12")
 		)
 		(pin "15"
-			(uuid "10eac262-496b-4fe8-ac64-468b539cb707")
+			(uuid "10eac262-496b-4fe8-ac64-468b539cb708")
 		)
 		(pin "14"
-			(uuid "0780615f-380f-46cd-b9b0-9e917d1828af")
+			(uuid "0780615f-380f-46cd-b9b0-9e917d1828b0")
 		)
 		(pin "11"
-			(uuid "2b0ff3ca-d446-4cd0-847b-d5f45693764a")
+			(uuid "2b0ff3ca-d446-4cd0-847b-d5f45693764b")
 		)
 		(pin "10"
-			(uuid "46543a8a-3476-4ebd-a47c-5c06c7ce5106")
+			(uuid "46543a8a-3476-4ebd-a47c-5c06c7ce5107")
 		)
 		(pin "12"
-			(uuid "427ac564-b08e-4257-9577-efeab347d117")
+			(uuid "427ac564-b08e-4257-9577-efeab347d118")
 		)
 		(instances
 			(project ""
@@ -12384,7 +12888,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 93.98 154.94 0)
 			(effects
 				(font
@@ -12404,6 +12908,24 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 93.98 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "ROYALOHM"
+			(at 93.98 154.94 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer part number" "1206S4F2001T5E"
+			(at 93.98 154.94 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12519,7 +13041,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H4.3mm"
 			(at 35.56 39.37 0)
 			(effects
 				(font
@@ -12538,6 +13060,24 @@
 			)
 		)
 		(property "Description" "MEC 5G single pole normally-open tactile switch"
+			(at 35.56 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer " "microswitch TACT"
+			(at 35.56 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer part number" "TACT-64N-F"
 			(at 35.56 44.45 0)
 			(effects
 				(font
@@ -12592,7 +13132,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 93.98 165.1 0)
 			(effects
 				(font
@@ -12612,6 +13152,24 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 93.98 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "ROYALOHM"
+			(at 93.98 165.1 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer part number" "1206S4F2001T5E"
+			(at 93.98 165.1 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12661,7 +13219,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 176.53 83.82 0)
 			(effects
 				(font
