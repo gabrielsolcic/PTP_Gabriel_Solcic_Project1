@@ -7749,7 +7749,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SOT-23-6:SOT-23-6"
+		(property "Footprint" "SOT-23-6"
 			(at 146.304 71.374 0)
 			(effects
 				(font
